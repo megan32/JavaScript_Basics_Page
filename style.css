@@ -1,0 +1,107 @@
+
+body{
+  background:#1d345c;
+  height: auto;
+  width:970px;
+}
+
+.container{
+  background:#1d345c;
+  width: 970px;
+  height: auto;
+}
+
+.header{
+  background: #cc323a;
+  color: #c3d7eb;
+  width: 940px;
+  height: 50px;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 10px;
+  padding: 20px;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+.sidebar{
+  background:#2F7E8B;
+  width: 230px;
+  height: auto;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  display: inline-block;
+  border-radius: 20px;
+}
+
+#Home{
+  margin-left: 20px;
+  margin-top: 20px;
+  text-decoration: underline;
+  color: #60cbd6
+}
+
+ .menu li, .sublist, a, .link{
+  color: #60cbd6;
+  text-decoration: underline;
+}
+
+.specialText{
+  color: #4b55db;
+}
+
+.main{
+  background:#0E1821;
+  width: 730px;
+  height: auto;
+  float: right;
+  vertical-align: top;
+  margin-top: 20px;
+  margin-left: 10px;
+  border-radius: 20px;
+}
+#mainHead{
+   color: #c3d7eb;
+   display: inline-block;
+   width: 670px;
+   height: auto;
+   margin-left: 20px;
+   margin-top: 30px;
+   margin-bottom: -5px;
+}
+#mainP{
+   color: #c3d7eb;
+   display: inline-block;
+   width: 670px;
+   height: auto;
+   margin-left: 20px;
+   margin-bottom: -5px;
+}
+.mainPoints{
+   color: #c3d7eb;
+   display: inline-block;
+   width: 670px;
+   height: auto;
+   margin-left: 20px;
+   margin-top: 10px;
+   padding-left: 30px;
+   padding-bottom: 20px;
+}
+
+.footer{
+  background:#3C4C5B;
+  color: #6a7aaf;
+  width: 960px;
+  height: 60px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 20px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+   width: 970px;
+}
+
+.footer p{
+  font-size: 20px;
+  margin: 15px;
+
+}
